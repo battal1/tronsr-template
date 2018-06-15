@@ -1,1 +1,3 @@
-A short introduction about your team
+Ekibiniz hakkında kısa bir tanıtım
+Kurucu: Battal
+Geliştirici:Mustafa
