@@ -1,1 +1,1 @@
-Supply a clear budget line.
+DETAY SONUÇLARI
