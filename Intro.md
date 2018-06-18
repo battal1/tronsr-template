@@ -1,2 +1,2 @@
 KURUCU: Battal M.
-GELİŞİM: Mustafa T.
+GELİŞİM: Mustafa T..
